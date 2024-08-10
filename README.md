@@ -3,7 +3,7 @@
 
 I'm a Front-End Developer with a strong enthusiasm for designing visually appealing and highly functional user interfaces. My journey in the tech world is fueled by a passion for innovation and problem-solving.
 
-![Rahmeh's Profile Picture](https://example.com/my-profile-picture.jpg)
+![Rahmeh's Profile Picture]([https://www.freepik.com/premium-vector/front-end-developer-typographic-header_12447996.htm])
 
 ## Technologies & Tools 🛠️
 - **Programming Languages:** Java, C++
