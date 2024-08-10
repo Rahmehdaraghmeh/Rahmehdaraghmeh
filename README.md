@@ -26,7 +26,7 @@ I'm a Front-End Developer with a strong enthusiasm for designing visually appeal
 ## Reach Out 📫
 I'm always enthusiastic about collaborating on innovative projects and sharing ideas with fellow developers. Don't hesitate to get in touch through:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/c9/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/rahmeh-daraghmeh-43377b222/)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/1/1e/Gmail_Icon.png)](mailto:rahma.daraghmah21@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmeh-daraghmeh-43377b222/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rahma.daraghmah21@example.com)
 
 Let's discuss how we can innovate and create together!
