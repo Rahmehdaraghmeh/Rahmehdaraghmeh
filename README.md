@@ -1,4 +1,5 @@
 # Hi I'm Rahmeh 👋🏻👩🏻‍💻
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=006400&vCenter=true&size=22">
 </p>
@@ -8,7 +9,6 @@
 </p>
 
 I'm a Front-End Developer with a strong enthusiasm for designing visually appealing and highly functional user interfaces. My journey in the tech world is fueled by a passion for innovation and problem-solving.
-
 
 ## Technologies & Tools 🛠️
 
@@ -35,6 +35,6 @@ I'm a Front-End Developer with a strong enthusiasm for designing visually appeal
 I'm always enthusiastic about collaborating on innovative projects and sharing ideas with fellow developers. Don't hesitate to get in touch through:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmeh-daraghmeh-43377b222/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rahma.daraghmah21@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rahma.daraghmah21@gmail.com)
 
 Let's discuss how we can innovate and create together!
