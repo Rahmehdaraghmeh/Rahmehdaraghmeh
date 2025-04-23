@@ -1,6 +1,13 @@
 # Hi I'm Rahmeh 👋🏻👩🏻‍💻
 
 I'm a Front-End Developer with a strong enthusiasm for designing visually appealing and highly functional user interfaces. My journey in the tech world is fueled by a passion for innovation and problem-solving.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=006400&vCenter=true&size=22">
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rahmehdaraghmeh&label=Profile%20views&color=0e75b6&style=flat" alt="rahmehdaraghmeh" /> 
+</p>
 
 ## Technologies & Tools 🛠️
 
