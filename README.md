@@ -8,7 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=rahmehdaraghmeh&label=Profile%20views&color=0e75b6&style=flat" alt="rahmehdaraghmeh" /> 
 </p>
 
-I'm a Front-End Developer with a strong enthusiasm for designing visually appealing and highly functional user interfaces. My journey in the tech world is fueled by a passion for innovation and problem-solving.
+I’m a Front-End Developer fueled by a passion for designing intuitive and visually engaging user interfaces. My journey in technology is rooted in a commitment to building seamless digital experiences that blend creativity with functionality. Every day is a new opportunity—to learn, to grow, and to turn challenges into innovative solutions that elevate the user experience.
+
+
 
 ## Technologies & Tools 🛠️
 
