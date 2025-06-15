@@ -27,6 +27,8 @@ I'm a Front-End Developer with a strong enthusiasm for designing visually appeal
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Singleton](https://img.shields.io/badge/Design--Pattern-Singleton-blue?style=flat&logo=appveyor&logoColor=white)
+
 
 ## GitHub Stats 📈
 ![Rahmeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmehdaraghmeh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
