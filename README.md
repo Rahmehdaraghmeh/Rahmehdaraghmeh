@@ -33,7 +33,7 @@ I’m a Front-End Developer fueled by a passion for designing intuitive and visu
 
 
 ## GitHub Stats 📈
-![Rahmeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmehdaraghmeh&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Rahmeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahmehdaraghmeh&show_icons=true&theme=default)
 
 ## Reach Out 📫
 I'm always enthusiastic about collaborating on innovative projects and sharing ideas with fellow developers. Don't hesitate to get in touch through:
