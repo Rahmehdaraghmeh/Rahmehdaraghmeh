@@ -33,7 +33,7 @@ I’m a Front-End Developer fueled by a passion for designing intuitive and visu
 
 
 ## GitHub Stats 📈
-![trophy](https://github-profile-trophy.vercel.app/?username=Rahmehdaraghmeh&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rahmehdaraghmeh&theme=radical)
 
 ## Reach Out 📫
 I'm always enthusiastic about collaborating on innovative projects and sharing ideas with fellow developers. Don't hesitate to get in touch through:
